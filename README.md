@@ -9,12 +9,12 @@ I am a Cyber Security  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 - :zap: In my free time, I create a python script for hacking.
 
-- :mailbox:How to reach me: [![WhatsApp](https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/whatsapp.svg)](https://wa.me/+6285713115067?text=Assalamualaikum+Warahmatullahi+wabarakatuh)
+- :mailbox:How to reach me: <a href="https://wa.me/+6285728337030?text=Assalamualaikum+Warahmatullahi+wabarakatuh" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/whatsapp.svg" alt="Mr. Pstar7" height="30" width="40" /></a
 
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://wa.me/+6285713115067?text=Assalamualaikum+Warahmatullahi+wabarakatuh" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/whatsapp.svg" alt="Mr. Pstar7" height="30" width="40" /></a>
+<a href="https://wa.me/+6285728337030?text=Assalamualaikum+Warahmatullahi+wabarakatuh" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/whatsapp.svg" alt="Mr. Pstar7" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100089457192279" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mr. PSTAR7" height="30" width="40" /></a>
 <a href="https://www.instagram.com/pstar7.dev?igsh=MXQxczFlb2FmMXV5cA==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Mr. Pstar7" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@Mr_Pstar7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Mr. Pstar7" height="30" width="40" /></a>
