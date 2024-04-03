@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Mr.%20Pstar7&fontColor=efef&animation=twinkling&desc=Cyber%20Security%20|%20Digital%20Forensics)
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Mr.%20Pstar7&fontColor=efef&animation=twinkling)
 ---
 
 ### :woman_technologist: About Me :
@@ -9,7 +9,7 @@ I am a Cyber Security  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 - :zap: In my free time, I create a python script for hacking.
 
-- :mailbox:How to reach me: <a href="https://wa.me/+6285728337030?text=Assalamualaikum+Warahmatullahi+wabarakatuh" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/whatsapp.svg" alt="Mr. Pstar7" height="30" width="40" /></a>
+- :mailbox: How to reach me: <a href="https://wa.me/+6285728337030?text=Assalamualaikum+Warahmatullahi+wabarakatuh" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/whatsapp.svg" alt="Mr. Pstar7" height="30" width="40" /></a>
 
 ---
 <h3 align="left">Connect with me:</h3>
