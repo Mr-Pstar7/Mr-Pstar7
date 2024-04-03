@@ -38,7 +38,7 @@ I am a Cyber Security  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 ### 📈 My Github History!
 <a href="https://github.com/Mr-Pstar7">
-  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=Mr-Pstar7&show_icons=true&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Mr-Pstar7&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/Mr-Pstar7">
   <img width="auto" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Pstar7&layout=pie" />
