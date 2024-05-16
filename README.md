@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Mr.%20Pstar7&fontColor=efef&animation=twinkling
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Mr.%20Pstar7&fontColor=efef&animation=twinkling)
 <a href="https://github.com/Mr-Pstar7">
-  <img src="https://visitcount.itsvg.in/api?id=Mr-Pstar7&label=Profile%20Views&pretty=true" />
-</a>)
+  <img align="center" src="https://visitcount.itsvg.in/api?id=Mr-Pstar7&label=Profile%20Views&pretty=true" />
+</a>
 ---
 ### :man_technologist: About Me :
 I am a Cyber Security  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
