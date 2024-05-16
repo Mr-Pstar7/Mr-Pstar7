@@ -38,12 +38,12 @@ I am a Cyber Security  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 ### 📈 My Github History!
 <a href="https://github.com/Mr-Pstar7">
+  <img src="https://visitcount.itsvg.in/api?id=Mr-Pstar7&label=Profile%20Views&pretty=true" />
+</a>
+<a href="https://github.com/Mr-Pstar7">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Mr-Pstar7&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/Mr-Pstar7">
   <img width="auto" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Pstar7&layout=pie" />
-</a>
-<a href="https://github.com/Mr-Pstar7">
-  <img src="https://visitcount.itsvg.in/api?id=Mr-Pstar7&label=Profile%20Views&pretty=true" />
 </a>
 
