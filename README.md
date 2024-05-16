@@ -43,4 +43,7 @@ I am a Cyber Security  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 <a href="https://github.com/Mr-Pstar7">
   <img width="auto" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Pstar7&layout=pie" />
 </a>
+<a href="https://github.com/Mr-Pstar7">
+  <img src="https://visitcount.itsvg.in/api?id=Mr-Pstar7&label=Profile%20Views&pretty=true" />
+</a>
 
