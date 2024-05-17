@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Mr.%20Pstar7&fontColor=efef&animation=twinkling)
 <a href="https://github.com/Mr-Pstar7">
-  <img align="center" src="https://visitcount.itsvg.in/api?id=Mr-Pstar7&label=Profile%20Views&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=Mr-Pstar7&label=Profile%20Views&pretty=true" />
 </a>
 ---
 ### :man_technologist: About Me :
