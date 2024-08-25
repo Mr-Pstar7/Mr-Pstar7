@@ -1,9 +1,10 @@
-## ★ Github data ★
-<p align="center">
+div id="top"></div>
+<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
 
-  <a href="https://github.com/Mr-Pstar7"><img src="http://readme-typing-svg.herokuapp.com?color=BF00FF&center=true&vCenter=true&multiline=false&lines=Follow++My+Github" alt="UwU">
-  
->
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+MrPstar7;Cyber+Security+Backend; Developer;function+findQuestion(42)" alt="Cyber Security r"></a>
+</div>
+
 > *Number of visitors*
      <a href="https://github.com/Mr-Pstar7">
   <img src="https://visitcount.itsvg.in/api?id=Mr-Pstar7&label=Profile%20Views&pretty=true" />
