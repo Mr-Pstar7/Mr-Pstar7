@@ -222,66 +222,20 @@
 </a>
 </p>
 
+##Donate
+<p align="center">
+<i><a href="https://saweria.co/MrPstar7">donating</a>  💸 to help it improve!</i>
+</p>
 
-<!--More REPOSITORIES-->
-
-
-
-
-<!--SPOTIFY-->
-
-
-<a href="https://github.com/Mr-Pstar7">
-<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
+<p align="center">
+<a href="https://www.paypal.me/rahuldkjain"><img src="https://img.shields.io/badge/support-Bitcoin-yellow?logo=Bitcoin&style=flat-square&label=Donate" alt="sponsor github profile readme generator"/>
 </a>
-
-<a href="https://github.com/Mr-Pstar7">
-<img align="left" src="https://cdn-icons-png.flaticon.com/512/174/174872.png" width="20" height="20" >
- <img align="right"  src="https://cdn-icons-png.flaticon.com/512/174/174872.png" width="20" height="20" > 
- </a>
-  <a href="https://github.com/Mr-Pstar7"> 
- <img align="left" src="./images/good-times.svg" width="10%">   
+<a href='https://ko-fi.com/A0A81XXSX' target='_blank'><img height='23' width="100" src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' alt='Buy Coffee for rahuldkjain' />
 </a>
-<a href="https://github.com/Mr-Pstar7"> 
- <img align="right" src="./images/good-times.svg" width="10%">   
-</a>
- <h2 align="center" width="20" >
-   【H o b b i e s】
-</h2>
+<a href="https://www.buymeacoffee.com/rahuldkjain" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="23" width="100" style="border-radius:1px" />
+</p>
 
 
-<a href="https://github.com/Mr-Pstar7"> 
-<img align="left" src="https://media.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif" width="70" height="70" ></a>
-<a href="https://github.com/Mr-Pstar7"> 
- <img align="right"  src="https://media.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif" width="70" height="70" > </a>
-
-<!--spotify CARD-->
-
-<br>
-<h4 align="center">
-Currently Coding and Listening
-</h4>
- <div align="center">
-
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
-
-
-  
-  [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=21omxceo7j24upe246denzrgy&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/walidbosso)
-
-  
-
-<!--MORE SONGS-->
-
-<details open align="center">
-  <summary>💚 More Songs & More things</summary>
-  <br>
-
-
-<a href="https://github.com/Mr-Pstar7"> 
-  <img align="center" src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=21omxceo7j24upe246denzrgy" alt="Data Card for Spotify">
-</a>
-  
 <!--QUOTE-->
 <br/><br/>
   <div align="center">
