@@ -5,15 +5,16 @@
   
 >
 > *Number of visitors*
-     ![DUMAI-991](https://komarev.com/ghpvc/?username=EagleCyber74&color=blue)
+     <a href="https://github.com/Mr-Pstar7">
+  <img src="https://visitcount.itsvg.in/api?id=Mr-Pstar7&label=Profile%20Views&pretty=true" />
+     </a>
 >
 
 ### About Me
 
- - 👨‍🦱 My name is `EagleCyber74`
- - 🏠 Live in `Situbondo, Jawa Timur`
- - 👶🏻 Born in `Jawa Timur, Indonesia`
- - 🏫 School in `Smpn 1 Sumbermalang`
+ - 👨‍🦱 My name is `MrPstar6`
+ - 🏠 Live in `Wonosobo, Jawa Tengah`
+ - 👶🏻 Born in `Jawa Tengah, Indonesia`
  - 🌐 Language
    - 🇮🇩 Indonesian
    - 🇮🇩 Locare Empire
@@ -24,7 +25,7 @@
 > *My Social Media*
 > 
 [![](https://img.shields.io/badge/Instagram-pink?logo=Instagram&logoColor=pink&labelColor=white)](https://www.instagram.com/pstar7.dev)
-[![](https://img.shields.io/badge/Whatsapp-white?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6285728337030?text=Asalamualaikum++Warahmatullahi+Wabarakatuh
+[![](https://img.shields.io/badge/Whatsapp-white?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6285728337030?text=Asalamualaikum++Warahmatullahi+Wabarakatuh)
 [![](https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=Brighwhite&labelColor=white)](https://t.me/@MrPstar7)
 [![](https://img.shields.io/badge/YouTube-white?logo=YouTube&logoColor=Brighred&labelColor=red)](https://youtube.com/@Mr-Pstar7)
 [![](https://img.shields.io/badge/Facebook-white?logo=Facebook&logoColor=Brighblue&labelColor=blue)](https://www.facebook.com/profile.php?id=100089457192279)<br>
