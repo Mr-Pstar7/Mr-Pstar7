@@ -21,7 +21,7 @@
    - 🇮🇩 Locare Empire
    - 🇮🇩 Jawa Empire
 
-<a href="https://saweria.co/donate/EagleCyber74" target="_blank"><img src="https://user-images.githubusercontent.com/26188697/180601310-e82c63e4-412b-4c36-b7b5-7ba713c80380.png" alt="Donate For MrPstar7" height="30" width="120"></a>
+<a href="https://saweria.co/MrPstar7" target="_blank"><img src="https://user-images.githubusercontent.com/26188697/180601310-e82c63e4-412b-4c36-b7b5-7ba713c80380.png" alt="Donate For MrPstar7" height="30" width="120"></a>
 
 > *My Social Media*
 > 
