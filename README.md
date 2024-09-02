@@ -25,11 +25,10 @@
 
 > *My Social Media*
 > 
-[![](https://img.shields.io/badge/Instagram-pink?logo=Instagram&logoColor=pink&labelColor=white)](https://www.instagram.com/pstar7.dev)
-[![](https://img.shields.io/badge/Whatsapp-white?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6285728337030?text=Asalamualaikum++Warahmatullahi+Wabarakatuh)
+
+
 [![](https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=Brighwhite&labelColor=white)](https://t.me/@MrPstar7)
 [![](https://img.shields.io/badge/YouTube-white?logo=YouTube&logoColor=Brighred&labelColor=red)](https://youtube.com/@Mr-Pstar7)
-[![](https://img.shields.io/badge/Facebook-white?logo=Facebook&logoColor=Brighblue&labelColor=blue)](https://www.facebook.com/profile.php?id=100089457192279)<br>
 
 <!--Intro-->
 
@@ -60,8 +59,11 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/Mr-Pstar7" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="http://Mr-Pstar7.byethost12.com/" target="_blank"><img src="https://img.shields.io/badge/My_Portfolio-4CA143?style=flat-square&logo=icloud&logoColor=white&labelColor=4CA143" /></a>
-  <a href="mailto:eaglecyber932@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-<!--   <a href="https://wa.me/+6285728337030?text=Assalamualaikum+Warahmatullahi+wabarakatuh" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white" /></a> -->
+  <a href="mailto:hackedbypstar7@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+[![](https://img.shields.io/badge/Whatsapp-white?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6285728337030?text=Asalamualaikum++Warahmatullahi+Wabarakatuh)
+  [![](https://img.shields.io/badge/Instagram-pink?logo=Instagram&logoColor=pink&labelColor=white)](https://www.instagram.com/pstar7.dev)
+  [![](https://img.shields.io/badge/Facebook-white?logo=Facebook&logoColor=Brighblue&labelColor=blue)](https://www.facebook.com/profile.php?id=100089457192279)<br>
+    
   <a href="https://t.me/MrPstar7" target="_blank"><img src="https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white" /></a><br>
   <a href="http://wa.eaglecyber932.byethost12.com/wp-content/uploads/2023/09/CV_BOUSSOU_Walid_2023.pdf"><img src="https://img.shields.io/badge/Download%20my%20CV-EC1C24.svg?style=flat-square&logo=Adobe%20Acrobat%20Reader&logoColor=white" /></a>
  
@@ -318,6 +320,7 @@
 <!--THANKS-->
  <p align="center">  
 <a href="https://www.buymeacoffee.com/Mr-Pstar7"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=Followersbutton_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDF00" title="☕ This will motivate me to continue on creating more open source codes "/></a>
+     <p>Bitcoin: 1HDfx5jKBuZ32kVmVWfWCwynTKKHSUMzuA</p>
 </p>
 
 
