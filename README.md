@@ -9,28 +9,6 @@
      <a href="https://github.com/Mr-Pstar7">
   <img src="https://visitcount.itsvg.in/api?id=Mr-Pstar7&label=Profile%20Views&pretty=true" />
      </a>
->
-
-### About Me
-
- - 👨‍🦱 My name is `MrPstar6`
- - 🏠 Live in `Wonosobo, Jawa Tengah`
- - 👶🏻 Born in `Jawa Tengah, Indonesia`
- - 🌐 Language
-   - 🇮🇩 Indonesian
-   - 🇮🇩 Locare Empire
-   - 🇮🇩 Jawa Empire
-
-<a href="https://saweria.co/MrPstar7" target="_blank"><img src="https://user-images.githubusercontent.com/26188697/180601310-e82c63e4-412b-4c36-b7b5-7ba713c80380.png" alt="Donate For MrPstar7" height="30" width="120"></a>
-
-> *My Social Media*
-> 
-
-
-[![](https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=Brighwhite&labelColor=white)](https://t.me/@MrPstar7)
-[![](https://img.shields.io/badge/YouTube-white?logo=YouTube&logoColor=Brighred&labelColor=red)](https://youtube.com/@Mr-Pstar7)
-
-<!--Intro-->
 
  
 ## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛 />! <a href="https://github.com/Mr-Pstar7"><img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px"></a><a href="https://github.com/Mr-Pstar7"><img align="right" width ="%" src="https://komarev.com/ghpvc/?username=Mr-Pstar7&style=for-the-badge&color=blue"></a>
@@ -67,7 +45,7 @@
     <a href="https://www.facebook.com/profile.php?id=100089457192279">
 <img src="https://img.shields.io/badge/Facebook-white?logo=Facebook&logoColor=Brighblue&labelColor=blue"/> </a>
     <a href="https://t.me/MrPstar7" target="_blank"><img src="https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white" /></a><br>
-  <a href="http://wa.eaglecyber932.byethost12.com/wp-content/uploads/2023/09/CV_BOUSSOU_Walid_2023.pdf"><img src="https://img.shields.io/badge/Download%20my%20CV-EC1C24.svg?style=flat-square&logo=Adobe%20Acrobat%20Reader&logoColor=white" /></a>
+  <a href="http://wa.pstar7.byethost12.com/wp-content/uploads/2023/09/CV_BOUSSOU_Walid_2023.pdf"><img src="https://img.shields.io/badge/Download%20my%20CV-EC1C24.svg?style=flat-square&logo=Adobe%20Acrobat%20Reader&logoColor=white" /></a>
  
 </p>
 
@@ -321,8 +299,7 @@
 
 <!--THANKS-->
  <p align="center">  
-<a href="https://www.buymeacoffee.com/Mr-Pstar7"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=Followersbutton_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDF00" title="☕ This will motivate me to continue on creating more open source codes "/></a>
-     <p>Bitcoin: 1HDfx5jKBuZ32kVmVWfWCwynTKKHSUMzuA</p>
+ <img src="https://telegra.ph/file/54f8eaf85d6dd3a7524b4.jpg"/>
 </p>
 
 
