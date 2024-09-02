@@ -61,13 +61,12 @@
   <a href="http://Mr-Pstar7.byethost12.com/" target="_blank"><img src="https://img.shields.io/badge/My_Portfolio-4CA143?style=flat-square&logo=icloud&logoColor=white&labelColor=4CA143" /></a>
   <a href="mailto:hackedbypstar7@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
     <a href="https://wa.me/6285728337030?text=Asalamualaikum++Warahmatullahi+Wabarakatuh">
-<img src="https://img.shields.io/badge/Whatsapp-white?logo=Whatsapp&logoColor=Brightgreen&labelColor=green"/> </a>
+<img src="https://img.shields.io/badge/Whatsapp-white?logo=Whatsapp&logoColor=Brightgreen&labelColor=white"/> </a>
     <a href="https://www.instagram.com/pstar7.dev">
-<img src="https://img.shields.io/badge/Instagram-pink?logo=Instagram&logoColor=pink&labelColor=pink"/> </a>
+<img src="https://img.shields.io/badge/Instagram-pink?logo=Instagram&logoColor=pink&labelColor=white"/> </a>
     <a href="https://www.facebook.com/profile.php?id=100089457192279">
 <img src="https://img.shields.io/badge/Facebook-white?logo=Facebook&logoColor=Brighblue&labelColor=blue"/> </a>
-    
-  <a href="https://t.me/MrPstar7" target="_blank"><img src="https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white" /></a><br>
+    <a href="https://t.me/MrPstar7" target="_blank"><img src="https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white" /></a><br>
   <a href="http://wa.eaglecyber932.byethost12.com/wp-content/uploads/2023/09/CV_BOUSSOU_Walid_2023.pdf"><img src="https://img.shields.io/badge/Download%20my%20CV-EC1C24.svg?style=flat-square&logo=Adobe%20Acrobat%20Reader&logoColor=white" /></a>
  
 </p>
